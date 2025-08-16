@@ -1,0 +1,10 @@
+.instagram.com	TRUE	/	FALSE	1789901054	csrftoken	s0O6gKzSgGfxKmwLulXqtkQNzG2QzZAz
+.instagram.com	TRUE	/	TRUE	1789900416	datr	gV6gaHzFyoyzaZbY2SmGOj0D
+.instagram.com	TRUE	/	FALSE	1755945244	dpr	3
+.instagram.com	TRUE	/	FALSE	1763117054	ds_user_id	49176918202
+.instagram.com	TRUE	/	TRUE	1786876416	ig_did	D95F6E25-27A5-40CC-BF4A-8592AA911B71
+.instagram.com	TRUE	/	TRUE	1789900418	mid	aKBegQABAAHeEA8VChPvbu6-3r
+.instagram.com	TRUE	/	TRUE	0	rur	"RVA,49176918202,1786877055:01fee82773a98e71c5c1696fe874eaf0c4e7e5a726caaca23ff9246ebc872ab818164d35"
+.instagram.com	TRUE	/	TRUE	1786876444	sessionid	49176918202%3A7kH7hD1b7tbZDh%3A14%3AAYcqg9irsdzId_uaE97GnG69YzGmNSAWVuxmdJJ5ow
+.instagram.com	TRUE	/	FALSE	1755945853	wd	360x668
+  
